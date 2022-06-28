@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shagunovk
-- 👀 I’m interested in Python, Data Science and Java
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning JavaScript
 
 <!---
 shagunovk/shagunovk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
